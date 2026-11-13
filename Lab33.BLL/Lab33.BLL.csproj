@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Lab33.DAL\Lab33.DAL.csproj" />
+  </ItemGroup>
+</Project>
